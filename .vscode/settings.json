@@ -1,0 +1,13 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.validProperties": [
+    "composes"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "prettier.printWidth": 80
+}
